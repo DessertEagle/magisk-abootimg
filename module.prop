@@ -1,0 +1,6 @@
+id=abootimg-static
+name=abootimg for ARM(64)
+version=0.1
+versionCode=000100
+author=DessertEagle
+description=Static abootimg binary for on-device patching.
